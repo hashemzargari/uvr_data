@@ -72,21 +72,21 @@
                                 "d12395a8-e57c48e6.th":"https://dl.fbaipublicfiles.com/demucs/hybrid_transformer/d12395a8-e57c48e6.th",
                                 "92cfc3b6-ef3bcb9c.th":"https://dl.fbaipublicfiles.com/demucs/hybrid_transformer/92cfc3b6-ef3bcb9c.th",
                                 "04573f0d-f3cf25b2.th":"https://dl.fbaipublicfiles.com/demucs/hybrid_transformer/04573f0d-f3cf25b2.th",
-                                "htdemucs_ft.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/htdemucs_ft.yaml"
+                                "htdemucs_ft.yaml": "https://github.com/hashemzargari/uvr_data/releases/download/all_public_uvr_models/htdemucs_ft.yaml"
                                 },
 
                 "Demucs v4: htdemucs":{
                                 "955717e8-8726e21a.th": "https://dl.fbaipublicfiles.com/demucs/hybrid_transformer/955717e8-8726e21a.th",
-                                "htdemucs.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/htdemucs.yaml"
+                                "htdemucs.yaml": "https://github.com/hashemzargari/uvr_data/releases/download/all_public_uvr_models/htdemucs.yaml"
                                 },
 
                 "Demucs v4: hdemucs_mmi":{
                                 "75fc33f5-1941ce65.th": "https://dl.fbaipublicfiles.com/demucs/hybrid_transformer/75fc33f5-1941ce65.th",
-                                "hdemucs_mmi.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/hdemucs_mmi.yaml"
+                                "hdemucs_mmi.yaml": "https://github.com/hashemzargari/uvr_data/releases/download/all_public_uvr_models/hdemucs_mmi.yaml"
                                 },
                 "Demucs v4: htdemucs_6s":{
                                 "5c90dfd2-34c22ccb.th": "https://dl.fbaipublicfiles.com/demucs/hybrid_transformer/5c90dfd2-34c22ccb.th",
-                                "htdemucs_6s.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/htdemucs_6s.yaml"
+                                "htdemucs_6s.yaml": "https://github.com/hashemzargari/uvr_data/releases/download/all_public_uvr_models/htdemucs_6s.yaml"
                                 },
                 "Demucs v3: mdx":{
                                 "0d19c1c6-0f06f20e.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/0d19c1c6-0f06f20e.th", 
@@ -121,8 +121,8 @@
                                 },
                 
                 "Demucs v3: UVR Model":{
-                                "ebf34a2db.th": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/ebf34a2db.th",
-                                "UVR_Demucs_Model_1.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/UVR_Demucs_Model_1.yaml"
+                                "ebf34a2db.th": "https://github.com/hashemzargari/uvr_data/releases/download/all_public_uvr_models/ebf34a2db.th",
+                                "UVR_Demucs_Model_1.yaml": "https://github.com/hashemzargari/uvr_data/releases/download/all_public_uvr_models/UVR_Demucs_Model_1.yaml"
                                 },
 
                 "Demucs v3: repro_mdx_a":{
@@ -130,19 +130,19 @@
                                 "1ef250f1-592467ce.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/1ef250f1-592467ce.th",
                                 "fa0cb7f9-100d8bf4.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/fa0cb7f9-100d8bf4.th",
                                 "902315c2-b39ce9c9.th": "https://dl.fbaipublicfiles.com/demucs/mdx_final/902315c2-b39ce9c9.th",
-                                "repro_mdx_a.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/repro_mdx_a.yaml"
+                                "repro_mdx_a.yaml": "https://github.com/hashemzargari/uvr_data/releases/download/all_public_uvr_models/repro_mdx_a.yaml"
                                 },
 
                 "Demucs v3: repro_mdx_a_time_only":{
                                 "9a6b4851-03af0aa6.th":"https://dl.fbaipublicfiles.com/demucs/mdx_final/9a6b4851-03af0aa6.th",
                                 "1ef250f1-592467ce.th":"https://dl.fbaipublicfiles.com/demucs/mdx_final/1ef250f1-592467ce.th",
-                                "repro_mdx_a_time_only.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/repro_mdx_a_time_only.yaml"
+                                "repro_mdx_a_time_only.yaml": "https://github.com/hashemzargari/uvr_data/releases/download/all_public_uvr_models/repro_mdx_a_time_only.yaml"
                                 },
 
                 "Demucs v3: repro_mdx_a_hybrid_only":{
                                 "fa0cb7f9-100d8bf4.th":"https://dl.fbaipublicfiles.com/demucs/mdx_final/fa0cb7f9-100d8bf4.th",
                                 "902315c2-b39ce9c9.th":"https://dl.fbaipublicfiles.com/demucs/mdx_final/902315c2-b39ce9c9.th",
-                                "repro_mdx_a_hybrid_only.yaml": "https://github.com/TRvlvr/model_repo/releases/download/all_public_uvr_models/repro_mdx_a_hybrid_only.yaml"
+                                "repro_mdx_a_hybrid_only.yaml": "https://github.com/hashemzargari/uvr_data/releases/download/all_public_uvr_models/repro_mdx_a_hybrid_only.yaml"
                                 },
 
                 "Demucs v2: demucs": {
