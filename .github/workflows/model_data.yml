@@ -13,3 +13,4 @@ jobs:
         with:
           token: ${{ secrets.GHUB_TOKEN }}
           src_repo: TRvlvr/model_repo
+          copy_assets: true
